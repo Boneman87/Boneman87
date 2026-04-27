@@ -5,7 +5,7 @@ I build high-scale, cloud-native systems that prioritize data integrity and auto
 
 ### 🎓 Certifications & Badges
 <p align="left">
-  <img src="https://www.credly.com/badges/1e9e58b8-a7bf-41b2-b780-b01ff82623bb" alt="AWS Solutions Architect Associate Badge">
+  <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e9e58b8-a7bf-41b2-b780-b01ff82623bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" alt="AWS Solutions Architect Associate Badge">
   <img src="https://shields.io [shields.io]" alt="GCP Data Engineer Badge">
 </p>
 
