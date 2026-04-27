@@ -6,7 +6,7 @@ I build high-scale, cloud-native systems that prioritize data integrity and auto
 ### 🎓 Certifications & Badges
 <p align="left">
   <a href="https://www.credly.com/badges/1e9e58b8-a7bf-41b2-b780-b01ff82623bb/public_url">
-  <img src="https://credly.com" width="160" alt="AWS Certified Solutions Architect – Associate Badge">
+  <img src="https://credly.com" width="300" alt="AWS Certified Solutions Architect – Associate Badge">
 </a>
 
 
