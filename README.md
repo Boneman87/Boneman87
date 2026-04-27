@@ -5,11 +5,15 @@ I build high-scale, cloud-native systems that prioritize data integrity and auto
 
 ### 🎓 Certifications & Badges
 <p align="left">
+  <a href="URL_TO_YOUR_CREDLY_PUBLIC_BADGE">
+  <img src="IMAGE_URL_FROM_CREDLY" width="150" alt="AWS Solutions Architect Associate Badge">
+</a>
+
   <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e9e58b8-a7bf-41b2-b780-b01ff82623bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" alt="AWS Solutions Architect Associate Badge">
   <img src="https://shields.io [shields.io]" alt="GCP Data Engineer Badge">
 </p>
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e9e58b8-a7bf-41b2-b780-b01ff82623bb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ### 🔭 What I'm working on
 - 🛠️ Managing and scaling enterprise infrastructure in the Data Protection space.
 - 🏗️ Building automated workflows to improve system reliability.
